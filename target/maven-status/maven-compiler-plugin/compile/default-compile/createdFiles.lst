@@ -1,0 +1,6 @@
+com\websystique\springbatch\LocalDateAdapter.class
+com\websystique\springbatch\ExamResultJobListener.class
+com\websystique\springbatch\ExamResultFieldSetMapper.class
+com\websystique\springbatch\Main.class
+com\websystique\springbatch\model\ExamResult.class
+com\websystique\springbatch\ExamResultItemProcessor.class
